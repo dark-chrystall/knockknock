@@ -3,15 +3,12 @@
 package main
 
 import (
-	"fmt"
-	"strings"
-
-	"math/rand"
-	"time"
-
 	"bufio"
-
+	"fmt"
+	"math/rand"
 	"os"
+	"strings"
+	"time"
 )
 
 func knock() {
